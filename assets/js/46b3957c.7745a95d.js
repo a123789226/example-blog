@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexample_blog=self.webpackChunkexample_blog||[]).push([[5046],{8490:e=>{e.exports=JSON.parse('{"permalink":"/example-blog/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
